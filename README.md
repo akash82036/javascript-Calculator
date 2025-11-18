@@ -1,6 +1,7 @@
-# FCC - Javascript Calculator
+### FreeCodeCamp Certification Project
 
-A Pen created on CodePen.
+This JavaScript Calculator was built as part of the **FreeCodeCamp Front End Development Libraries Certification** project.
 
-Original URL: [https://codepen.io/akash2036/pen/LEGjmNg](https://codepen.io/akash2036/pen/LEGjmNg).
+**FCC Project Link:** https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator
 
+**Live Demo:** https://akash82036.github.io/javascript-Calculator/
